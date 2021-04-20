@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/helloreact/static/css/main.8b75f0f5.chunk.css",
+    "main.js": "/helloreact/static/js/main.69e79acb.chunk.js",
+    "main.js.map": "/helloreact/static/js/main.69e79acb.chunk.js.map",
+    "runtime-main.js": "/helloreact/static/js/runtime-main.1080b4db.js",
+    "runtime-main.js.map": "/helloreact/static/js/runtime-main.1080b4db.js.map",
+    "static/js/2.6c6a1696.chunk.js": "/helloreact/static/js/2.6c6a1696.chunk.js",
+    "static/js/2.6c6a1696.chunk.js.map": "/helloreact/static/js/2.6c6a1696.chunk.js.map",
+    "static/js/3.ec47851e.chunk.js": "/helloreact/static/js/3.ec47851e.chunk.js",
+    "static/js/3.ec47851e.chunk.js.map": "/helloreact/static/js/3.ec47851e.chunk.js.map",
+    "index.html": "/helloreact/index.html",
+    "static/css/main.8b75f0f5.chunk.css.map": "/helloreact/static/css/main.8b75f0f5.chunk.css.map",
+    "static/js/2.6c6a1696.chunk.js.LICENSE.txt": "/helloreact/static/js/2.6c6a1696.chunk.js.LICENSE.txt",
+    "static/media/banner.css": "/helloreact/static/media/react_bg_img.78a29fcf.svg",
+    "static/media/translate.929cc7ba.svg": "/helloreact/static/media/translate.929cc7ba.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1080b4db.js",
+    "static/js/2.6c6a1696.chunk.js",
+    "static/css/main.8b75f0f5.chunk.css",
+    "static/js/main.69e79acb.chunk.js"
+  ]
+}
