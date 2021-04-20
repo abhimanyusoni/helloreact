@@ -1,0 +1,65 @@
+header.site_header{
+    padding: 18px 0;
+    background-color: #20232a;
+
+    .logo_wrap{
+        color: #61dafb;
+        font-weight: 700;
+        font-size: 18px;
+
+        img{
+            width: 30px;
+            margin-right: 8px;
+        }
+    }
+    .left_nav{
+        ul{
+            li{
+                &:not(:last-child){
+                    margin-right: 35px;
+                }
+                a{
+                    text-decoration: none;
+                    color: rgb(238, 238, 238);
+                    font-size: 16px; font-weight: 400;
+
+                    &:hover{
+                        color: #61dafb;
+                    }
+                }
+            }
+        }
+    }
+    .right_content{
+        ul{
+            padding-inline-start: 40px;
+            li{
+                &:not(:first-child){
+                    margin-left: 23px;
+                }
+                a{
+                    text-decoration: none;
+                    color: rgb(238, 238, 238);
+                    font-size: 14px; font-weight: 400;
+
+                    &:hover{
+                        color: #61dafb;
+                    }
+                    img{
+                        margin-right: 5px;
+                    }
+                }
+            }
+        }
+        input{
+            border: none; padding: 6px 10px 6px 38px;
+            color: #fff; outline: none; font-size: 14px;
+            background: transparent url(../Header/images/loupe.png) no-repeat 12px center;
+            background-size: 15px; min-width: 260px; border-radius: 4px;
+
+            &:focus{
+                background-color: rgb(58, 58, 58);
+            }
+        }
+    }
+}

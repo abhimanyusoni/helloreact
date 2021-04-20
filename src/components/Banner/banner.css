@@ -1,0 +1,85 @@
+.banner_wrapper {
+  position: relative;
+  padding: 100px 0 85px;
+  background: #282c34;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  z-index: 99;
+}
+
+.banner_wrapper::after {
+  content: '';
+  position: absolute;
+  width: 750px;
+  height: 750px;
+  background: url(../Banner/images/react_bg_img.svg) no-repeat center;
+  background-size: 750px;
+  right: 210px;
+  opacity: 0.05;
+  z-index: 0;
+  top: 30px;
+}
+
+.banner_wrapper .banner_inner {
+  position: relative;
+  z-index: 99;
+  text-align: center;
+}
+
+.banner_wrapper .banner_inner .banner_title {
+  color: #61dafb;
+  font-size: 55px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.banner_wrapper .banner_inner .banner_tagline {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 200;
+}
+
+.banner_wrapper .banner_inner .banner_btns {
+  margin-top: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.banner_wrapper .banner_inner .banner_btns a {
+  margin: 0 10px;
+  color: #61dafb;
+  text-decoration: none;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.banner_wrapper .banner_inner .banner_btns a:hover {
+  color: #fff;
+}
+
+.banner_wrapper .banner_inner .banner_btns a button {
+  padding: 12px 25px;
+  font-size: 18px;
+  background: #61dafb;
+  color: #000;
+  border-radius: 0;
+}
+
+.banner_wrapper .banner_inner .banner_btns a button:hover {
+  background: #fff;
+}
+/*# sourceMappingURL=banner.css.map */

@@ -1,0 +1,71 @@
+header.site_header {
+  padding: 18px 0;
+  background-color: #20232a;
+}
+
+header.site_header .logo_wrap {
+  color: #61dafb;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+header.site_header .logo_wrap img {
+  width: 30px;
+  margin-right: 8px;
+}
+
+header.site_header .left_nav ul li:not(:last-child) {
+  margin-right: 35px;
+}
+
+header.site_header .left_nav ul li a {
+  text-decoration: none;
+  color: #eeeeee;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+header.site_header .left_nav ul li a:hover {
+  color: #61dafb;
+}
+
+header.site_header .right_content ul {
+  -webkit-padding-start: 40px;
+          padding-inline-start: 40px;
+}
+
+header.site_header .right_content ul li:not(:first-child) {
+  margin-left: 23px;
+}
+
+header.site_header .right_content ul li a {
+  text-decoration: none;
+  color: #eeeeee;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+header.site_header .right_content ul li a:hover {
+  color: #61dafb;
+}
+
+header.site_header .right_content ul li a img {
+  margin-right: 5px;
+}
+
+header.site_header .right_content input {
+  border: none;
+  padding: 6px 10px 6px 38px;
+  color: #fff;
+  outline: none;
+  font-size: 14px;
+  background: transparent url(../Header/images/loupe.png) no-repeat 12px center;
+  background-size: 15px;
+  min-width: 260px;
+  border-radius: 4px;
+}
+
+header.site_header .right_content input:focus {
+  background-color: #3a3a3a;
+}
+/*# sourceMappingURL=header.css.map */

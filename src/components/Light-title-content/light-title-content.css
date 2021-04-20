@@ -1,0 +1,16 @@
+.lightTitle_wrapper {
+  padding: 100px 0 90px;
+}
+
+.lightTitle_wrapper .light_title {
+  color: #000;
+  font-weight: 200;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.lightTitle_wrapper p {
+  font-size: 1rem;
+  line-height: 1.8rem;
+}
+/*# sourceMappingURL=light-title-content.css.map */
