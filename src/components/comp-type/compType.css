@@ -1,0 +1,14 @@
+.comptype_wrapper {
+  margin: 60px 0 70px;
+}
+
+.comptype_wrapper .text-right {
+  text-align: right;
+}
+
+.comptype_wrapper .comptype_ttl {
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 22px;
+}
+/*# sourceMappingURL=compType.css.map */

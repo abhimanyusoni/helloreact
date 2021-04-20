@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,iBAAiB,CAAA;EACb,MAAM,EAAE,WAAW;CAUtB;;AAXD,AAGI,iBAHa,CAGb,WAAW,CAAA;EACP,UAAU,EAAE,KAAK;CACpB;;AALL,AAMI,iBANa,CAMb,aAAa,CAAA;EACT,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;EAChB,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "compType.scss"
+    ],
+    "names": [],
+    "file": "compType.css"
+}

@@ -13,7 +13,8 @@ const Data = [
         title: "Learn Once, Write Anywhere",
         content1: "We don’t make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.",
         content2: "React can also render on the server using Node and power mobile apps using React Native.",
-    },
+    }
+    
 ]
 
 export default Data;
