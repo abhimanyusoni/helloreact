@@ -6,7 +6,18 @@
     }
     .comptype_ttl{
         font-size: 25px;
+        line-height: 140%;
         font-weight: 700;
         margin-bottom: 22px;
+    }
+    p{
+        margin-bottom: 20px;
+
+        &:last-child{
+            margin-bottom: 0 !important;
+        }
+    }
+    img{
+        width: 100%;
     }
 }

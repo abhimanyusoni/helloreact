@@ -5,6 +5,7 @@ import LightTitleContent from './components/Light-title-content/light-title-cont
 import Data from './components/Light-title-content/data';
 import compData from './components/comp-type/data';
 import CompType from './components/comp-type/comptype';
+import Footer from './components/Footer/footer';
 
 const createLightContent = (onedata) => {
   return(
@@ -43,6 +44,7 @@ function App() {
         </div>
         {compData.map(createCompType)}
       </div>
+      <Footer />
       
     </div>
   );

@@ -8,7 +8,20 @@
 
 .comptype_wrapper .comptype_ttl {
   font-size: 25px;
+  line-height: 140%;
   font-weight: 700;
   margin-bottom: 22px;
+}
+
+.comptype_wrapper p {
+  margin-bottom: 20px;
+}
+
+.comptype_wrapper p:last-child {
+  margin-bottom: 0 !important;
+}
+
+.comptype_wrapper img {
+  width: 100%;
 }
 /*# sourceMappingURL=compType.css.map */

@@ -3,7 +3,7 @@ import './compType.css';
 
 const Comptype = (props) => {
     
-    var hook = false;
+    var hook = true;
 
     return(
         <div className="comptype_wrapper">
