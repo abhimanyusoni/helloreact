@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/helloreact/static/css/main.9abfc61a.chunk.css",
+    "main.css": "/helloreact/static/css/main.1e4e8ee0.chunk.css",
     "main.js": "/helloreact/static/js/main.ce9b0256.chunk.js",
     "main.js.map": "/helloreact/static/js/main.ce9b0256.chunk.js.map",
     "runtime-main.js": "/helloreact/static/js/runtime-main.b63076d8.js",
@@ -10,7 +10,7 @@
     "static/js/3.b6bacfd5.chunk.js": "/helloreact/static/js/3.b6bacfd5.chunk.js",
     "static/js/3.b6bacfd5.chunk.js.map": "/helloreact/static/js/3.b6bacfd5.chunk.js.map",
     "index.html": "/helloreact/index.html",
-    "static/css/main.9abfc61a.chunk.css.map": "/helloreact/static/css/main.9abfc61a.chunk.css.map",
+    "static/css/main.1e4e8ee0.chunk.css.map": "/helloreact/static/css/main.1e4e8ee0.chunk.css.map",
     "static/js/2.6c6a1696.chunk.js.LICENSE.txt": "/helloreact/static/js/2.6c6a1696.chunk.js.LICENSE.txt",
     "static/media/banner.css": "/helloreact/static/media/react_bg_img.78a29fcf.svg",
     "static/media/simple.ebae24c2.png": "/helloreact/static/media/simple.ebae24c2.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.b63076d8.js",
     "static/js/2.6c6a1696.chunk.js",
-    "static/css/main.9abfc61a.chunk.css",
+    "static/css/main.1e4e8ee0.chunk.css",
     "static/js/main.ce9b0256.chunk.js"
   ]
 }
